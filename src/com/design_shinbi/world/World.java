@@ -116,12 +116,12 @@ public class World {
 	}
 	
 	
-	private static void showLanguages(Connection connection, String code) {
+	private static void showLanguages(Connection connection, String code) throws SQLException {
 
 		
 		// 実装してみよう
 
-		
+
 	}
 
 	
